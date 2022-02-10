@@ -24,7 +24,7 @@ const plant = (seed, water, fert, temp) => {
     }
 }
 
-// console.log(plant('#', 1, 5, 30));
+console.log(plant('#', 1, 5, 30));
 // console.log(plant('&', 5, 1, 20));
 // console.log(plant('$', 3, 3, 15));
 
